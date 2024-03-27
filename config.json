@@ -1,0 +1,6 @@
+{
+  "locations": ["HongKong", "Singapore", "Tokyo", "Seoul", "London", "Paris"],
+  "api_key": "86360c8475357ebb01df5334aa34a6ed",
+  "frequency_sec": 2,
+  "aggregate_period_sec": 8
+}
